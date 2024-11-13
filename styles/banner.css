@@ -2,11 +2,11 @@
     background: var(--azul-degrade);
     color: var(--branco);
     text-align: center;
+    padding: 2.5em 2em;
 }
 .banner-titulo{
     font-size: 18px;
     font-weight: 700;
-    
 }
 .banner-texto{
     font-weight: 500;
@@ -25,7 +25,7 @@
     font-size: 14px;
     font-weight: 400;
     text-align: center;
-    color:var(--branco);
+    color: var(--branco);
     background: url("../img/Lupa.png") no-repeat;
     background-position: 1em;
 }
